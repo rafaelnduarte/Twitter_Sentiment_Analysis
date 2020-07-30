@@ -2,8 +2,9 @@
 
 Sentiment Analysis is part of Natural Language Processing. It focuses on understanding the feelings behind our natural language.
 
-<center><img width="60%" src="https://image.freepik.com/free-vector/people-with-funny-happy-emojis-illustration_53876-59076.jpg
-"></center>
+<p align="center">
+  <img src="https://image.freepik.com/free-vector/people-with-funny-happy-emojis-illustration_53876-59076.jpg" width=50% >
+</p>
 
 
 This kind of analysis is extremely useful nowadays, since we have overwhelming amounts of data coming out of social media, where people are constantly expressing their feelings towards other people, companies, situations, politics, and many other subjects.
